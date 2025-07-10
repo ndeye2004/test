@@ -1,0 +1,27 @@
+section{
+    height: 80vh;
+    border: solid 4px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gauche{
+    height: 95%;
+    border: solid 1px black;
+    width: 50%;
+    display: flex;
+    background-color: brown;
+    
+}
+.droite{
+    height: 95%;
+    border: solid 1px black;
+    width: 50%;
+    display: flex;
+    background-color: aqua;
+   
+    
+}
+div{
+    margin: 7px;
+}
